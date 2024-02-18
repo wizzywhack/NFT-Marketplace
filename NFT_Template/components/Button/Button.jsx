@@ -5,7 +5,6 @@ const Button = ({ btnName, handleClick }) => {
     <div className={Style.box}>
       <button className={Style.button} onClick={() => handleClick()}>
         {btnName}
-        {/* abc */}
       </button>
     </div>
   );
