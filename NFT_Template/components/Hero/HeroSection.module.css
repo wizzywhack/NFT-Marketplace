@@ -19,6 +19,10 @@
   .heroSection {
     width: 90%;
   }
+  .heroSection_box_right img {
+    width: 350px;
+    height: 350px;
+  }
 }
 @media screen and (max-width: 55em) {
   .heroSection_box {
